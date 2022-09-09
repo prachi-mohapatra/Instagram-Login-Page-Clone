@@ -1,0 +1,144 @@
+.body1{
+  background-color: #FAF9F6;
+  }
+
+  /* top section*/
+.row{
+  padding: 5% 15%;
+}
+@media (max-width: 1300px) {
+.col1 {
+    display: none;
+  }
+  .cardsec{
+margin: auto 25%;
+}
+.card{
+  text-align: center;
+  width: 80%;
+
+  }
+
+
+
+}
+.img1{
+  position: absolute;
+  margin-top: 1.5%;
+}
+.img2{
+  position: relative;
+  padding-left: 34%;
+  padding-top: 10.6%;
+}
+hr{
+  width: 5%;
+}
+/*CARD*/
+.card{
+  text-align: center;
+  width: 80%;
+}
+.inputtext{
+  width: 80%;
+  padding: 3% 0;
+  margin: 2% 0;
+    background-color: #FAF9F6;
+    border-color: #FAF9F6;
+    border-width: thin;
+    border-radius: 5%;
+
+  }
+
+  .inputtext,
+  inputtext::placeholder {
+      font-size: 80%;
+  }
+
+ .img3{
+   padding: 7% 0;
+ }
+.click-btn1{
+    width: 80%;
+    padding: 2% 0;
+    margin: 2% 0;
+  border-radius: 4%;
+  background-color: #10A5F5;
+
+}
+.click-btn1:hover{
+  text-decoration: none;
+  background-color: #10A5F5;
+}
+
+hr{
+  width: 120%;
+
+}
+
+.textbox{
+  padding: 0;
+}
+.part1{
+margin: 0 50%;
+}
+.fbicon{
+  width: 6%;
+}
+.fb1{
+  text-decoration: none;
+  color: #3b5998;
+  font-weight:bold;
+  padding: 0 2%;
+}
+.link1{
+  text-decoration: none;
+  color: #3b5998;
+}
+.psec{
+  margin-top: 6%;
+}
+.last_box{
+  margin-top: 2%;
+}
+.boxlinklast{
+  text-decoration: none;
+  font-weight: 500;
+  color: #10A5F5;
+}
+.boxlinklast:hover{
+  text-decoration: none;
+  background-color: #10A5F5;
+}
+.downbox{
+  padding-left: 30%;
+  padding-top: 5%;
+}
+.loaddiv{
+  margin-left: 10%;
+}
+.load1{
+  width: 30%;
+  margin-left: 2%;
+}
+.lastdiv{
+  padding: 0 17%;
+  text-align: center;
+}
+a{
+  font-size: 80%;
+  color: grey;
+  text-decoration: none;
+  padding: 1%;
+}
+a:hover{
+  text-decoration: none;
+  color: grey;
+}
+.a1{
+
+    font-size: 80%;
+    color: grey;
+    padding: 1%;
+
+}
